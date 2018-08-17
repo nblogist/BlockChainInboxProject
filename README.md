@@ -1,0 +1,2 @@
+# BlockChainInboxProject
+Very Basic Contract
